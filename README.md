@@ -8,11 +8,15 @@
 </p>
 
 ## Pusher Example in Laravel
+https://pusher.com/
+
 	OPEN IT IN ONE BROWSER
 	http://127.0.0.1:8000
 
 	OPEN IT IN ANOTHER BROWSER
 	http://127.0.0.1:8000/test
+
+	More Information check Screenshot
 
 ## About Laravel
 
